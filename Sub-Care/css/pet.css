@@ -1,0 +1,30 @@
+.pet-bg-yellow {
+  background-color: #ffb200;
+}
+.pet-bg-blue {
+  background-color: #9bcade;
+}
+.pet-text-white {
+	color: #fff !important;
+}
+.pet-text-black {
+	color: #405a58 !important;
+}
+.pet-text-yellow {
+  color: #ffb200;
+}
+.pet-text-blue {
+  color: #9bcade;
+}
+.pet-title {
+	font-size: 8rem !important;
+}
+.pet-frame {
+    background-color: antiquewhite;
+    border-radius: 15px;
+    padding: 30px;
+}
+.pet-margin {
+	margin-left: 15%;
+	margin-right: 15%;
+}
